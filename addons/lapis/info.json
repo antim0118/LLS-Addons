@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "name": "Lapis",
-  "description": "Definitions for the Lapis web framework.",
-  "size": 143642,
-  "hasPlugin": false
-}

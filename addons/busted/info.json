@@ -1,6 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "description": "Definitions for the busted testing suite",
-  "size": 6808,
-  "hasPlugin": false
-}

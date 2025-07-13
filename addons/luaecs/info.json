@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "name": "ECS Lua",
-  "description": "Definitions for ECS Lua, a simple Entity-Component library",
-  "size": 11375,
-  "hasPlugin": false
-}

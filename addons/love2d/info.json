@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "name": "LÖVE",
-  "description": "Definitions for the LÖVE 2D game framework",
-  "size": 506416,
-  "hasPlugin": false
-}

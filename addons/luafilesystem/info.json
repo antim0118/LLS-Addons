@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "name": "LuaFileSystem",
-  "description": "Definitions for the LuaFileSystem library",
-  "size": 7806,
-  "hasPlugin": false
-}

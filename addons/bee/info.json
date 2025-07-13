@@ -1,6 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "description": "Definitions for the bee.lua library",
-  "size": 14475,
-  "hasPlugin": false
-}

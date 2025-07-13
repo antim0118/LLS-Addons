@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "name": "LuaSocket",
-  "description": "Definitions for the LuaSocket library",
-  "size": 72511,
-  "hasPlugin": false
-}

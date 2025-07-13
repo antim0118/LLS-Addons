@@ -1,7 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
-  "name": "CJSON",
-  "description": "Definitions for OpenResty's fork of the Lua CJSON module",
-  "size": 20098,
-  "hasPlugin": false
-}
