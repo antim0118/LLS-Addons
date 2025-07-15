@@ -1,25 +1,25 @@
 {
-  "title": "LLS-Addon info.json",
-  "description": "Schema for LLS addon info.json files",
-  "properties": {
-    "name": {
-      "description": "The display name for the addon",
-      "type": "string"
+    "title": "LLS-Addon info.json",
+    "description": "Schema for LLS addon info.json files",
+    "properties": {
+        "name": {
+            "description": "The display name for the addon",
+            "type": "string"
+        },
+        "description": {
+            "description": "A description for this addon",
+            "type": "string",
+            "minLength": 20,
+            "maxLength": 350
+        },
+        "size": {
+            "description": "The size of the addon. Generated automatically",
+            "type": "number"
+        },
+        "hasPlugin": {
+            "description": "Whether this addon contains a plugin. Generated automatically",
+            "type": "boolean"
+        }
     },
-    "description": {
-      "description": "A description for this addon",
-      "type": "string",
-      "minLength": 30,
-      "maxLength": 350
-    },
-    "size": {
-      "description": "The size of the addon. Generated automatically",
-      "type": "number"
-    },
-    "hasPlugin": {
-      "description": "Whether this addon contains a plugin. Generated automatically",
-      "type": "boolean"
-    }
-  },
-  "required": ["name", "description"]
+    "required": ["name", "description"]
 }

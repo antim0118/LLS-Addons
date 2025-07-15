@@ -1,6 +1,7 @@
 {
-    "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
+    "$schema": "https://raw.githubusercontent.com/antim0118/LLS-Addons/main/schemas/addon_info.schema.json",
     "name": "LuaPlayerYT v0.5 beta 2 (10.07.2025)",
-    "size": 69,
+    "description": "Last update: 13.07.2025",
+    "size": 20250710,
     "hasPlugin": false
 }
