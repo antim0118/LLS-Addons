@@ -1,0 +1,6 @@
+[submodule "addons/LuaPlayerYT_0.4_mcsm/module"]
+	path = addons/LuaPlayerYT_0.4_mcsm/module
+	url = https://github.com/antim0118/LLS-Addons-LPYT
+[submodule "addons/LuaPlayerYT_0.5_beta2_20250710/module"]
+	path = addons/LuaPlayerYT_0.5_beta2_20250710/module
+	url = https://github.com/antim0118/LLS-Addons-LPYT
